@@ -23,16 +23,3 @@
 - **Qt 6** (Widgets + Qt Designer)
 - **CMake** — система сборки
 
-## 📁 Структура проекта
-Breatdh-First-Search-in-chess-table/
-├── CMakeLists.txt
-├── main.cpp
-├── mainwindow.cpp
-├── mainwindow.h
-├── mainwindow.ui
-├── resource.qrc
-├── images/
-│   ├── knight.png
-│   ├── queen.png
-│   └── rook.png
-└── knight.ico
