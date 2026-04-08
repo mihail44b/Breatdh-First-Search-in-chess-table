@@ -1,0 +1,58 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CMakeDoxyfile.in
+CMakeDoxygenDefaults.cmake
+Makefile
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+DartConfiguration.tcl
+
+# Qt specific
+*.user
+*.user.*
+ui_*.h
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+*.qrc.depends
+object_script.*.Release
+object_script.*.Debug
+*.prl
+*.qm
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Executables and objects
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.pdb
+
+# Qt Creator specific
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user
